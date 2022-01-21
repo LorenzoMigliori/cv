@@ -66,17 +66,17 @@ hr {
 .middle-container {
   background-color: #FCFAFA;
   position: relative;
-  padding-top: 100px;
+  padding-top: 120px;
 }
 
 .profile {
   padding-bottom: 50px;
-  width: 60%;
+  width: 50%;
   margin: 0 auto;
 }
 
 .profile_img {
-  width: 20%;
+  width: 30%;
   height: auto;
 }
 
